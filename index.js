@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get("/", (req, res) =>
   res.send(
-    "Hello World! This is pretty cool. Learning something new every day."
+    "Hello World! This works well. I'll look into caching later. Maybe a custom build image?"
   )
 );
 
